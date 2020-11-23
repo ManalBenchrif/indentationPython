@@ -6,5 +6,6 @@
 x=10
 if x==10:
     #4 spaces
+    print("value of x =", x)
     print(f'Value of x = {x}')
 print("end of if block")
